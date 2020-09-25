@@ -3,3 +3,6 @@ regel 2
 regel 3
 Regel 4
 Regel 5 vanuit GitHub
+Regel 6 nog een keer vanuit Github
+
+regel 8
